@@ -17,35 +17,21 @@ export const Hero = () => {
 			</div>
 			<div className='relative basis-2/4  flex items-center justify-center'>
 				<Image
-					src='/images/sticker.png'
-					alt='sticker'
-					height={80}
-					width={80}
-					className='absolute'
-				/>
-				<Image
-					src='/images/tag.png'
-					alt='tag'
-					height={80}
-					width={150}
-					className='absolute'
-				/>
-				<Image
-					src='/images/image-1.png'
+					src='/images/reflective-headphones.png'
 					alt='nft image'
 					height={250}
 					width={250}
 					className='relative'
 				/>
 				<Image
-					src='/images/image-2.png'
+					src='/images/storm-sneakers.png'
 					alt='nft image'
 					height={250}
 					width={250}
 					className='absolute left-28'
 				/>
 				<Image
-					src='/images/image-3.png'
+					src='/images/the-wallet.png'
 					alt='nft image 4'
 					height={250}
 					width={250}
